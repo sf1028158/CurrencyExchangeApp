@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  CurrencyExchangeApp
-//
-//  Created by Yinxing Gao on 10/21/21.
-//
+
 
 import UIKit
 
